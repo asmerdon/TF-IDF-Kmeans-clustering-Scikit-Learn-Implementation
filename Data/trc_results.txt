@@ -1,0 +1,260 @@
+cluster 0
+ members sap
+ sap
+ members
+ police
+ shot
+ cape
+ assaulted
+ transvaal
+ tortured
+ arrested
+
+
+cluster 1
+ sonkombo
+ ndwedwe
+ ndwedwe kwazulu
+ ndwedwe kwazulu near
+ kwazulu near durban
+ near durban
+ arson
+ attacks
+ kwazulu near
+ kwazulu
+
+
+cluster 2
+ supporter shot
+ anc supporter shot
+ supporter shot dead
+ supporter
+ anc supporter
+ anc
+ shot
+ shot dead
+ dead
+ ifp
+
+
+cluster 3
+ amnesty
+ granted
+ granted amnesty
+ injured
+ people
+ killed
+ members
+ perpetrators
+ attack
+ people killed
+
+
+cluster 4
+ inkatha
+ inkatha supporters
+ udf
+ supporters
+ near
+ kwazulu
+ supporter
+ kwazulu near
+ durban
+ near durban
+
+
+cluster 5
+ cape
+ town
+ shot
+ police
+ member
+ members
+ named
+ sap
+ arrested
+ injured
+
+
+cluster 6
+ kwamashu
+ kwamashu durban
+ durban
+ near
+ conflict
+ supporters
+ burnt
+ anc
+ political
+ political conflict
+
+
+cluster 7
+ beaten
+ severely beaten
+ severely
+ members
+ sap
+ police
+ members sap
+ cape
+ supporter
+ arrested
+
+
+cluster 8
+ shot injured
+ injured
+ shot
+ members
+ sap
+ members sap
+ police
+ cape
+ member
+ supporter shot
+
+
+cluster 9
+ mk
+ mk operatives
+ operatives
+ injured
+ amnesty
+ granted amnesty
+ granted
+ killed
+ people
+ people killed
+
+
+cluster 10
+ bophuthatswana
+ police
+ members
+ beaten
+ severely
+ severely beaten
+ arrested
+ tvl
+ assaulted
+ chief
+
+
+cluster 11
+ chief
+ home
+ burnt
+ home burnt
+ supporters
+ mr
+ residents
+ lost
+ house
+ allegedly
+
+
+cluster 12
+ arson attack
+ arson
+ attack
+ lost
+ home
+ supporters
+ house
+ destroyed
+ anc
+ conflict
+
+
+cluster 13
+ soweto
+ johannesburg
+ shot
+ anc
+ security
+ ifp
+ members
+ injured
+ sap
+ killed
+
+
+cluster 14
+ security branch
+ branch
+ security
+ members
+ operatives
+ amnesty
+ granted
+ granted amnesty
+ tortured
+ detained
+
+
+cluster 15
+ detained
+ tortured
+ police
+ members
+ member
+ cape
+ arrested
+ sap
+ supporter
+ anc
+
+
+cluster 16
+ conflict area
+ political conflict area
+ political conflict
+ political
+ area
+ conflict
+ supporters
+ natal
+ near
+ ongoing
+
+
+cluster 17
+ ifp
+ supporters
+ anc
+ natal
+ ifp supporters
+ anc supporters
+ near
+ supporter
+ burnt
+ kwazulu
+
+
+cluster 18
+ death
+ transvaal
+ member
+ members
+ anc
+ stabbed
+ police
+ named
+ killed
+ died
+
+
+cluster 19
+ shot dead
+ dead
+ shot
+ members
+ sap
+ members sap
+ transvaal
+ member
+ police
+ cape
+
+
